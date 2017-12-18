@@ -1,0 +1,47 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color:grey;
+  border-radius: 3px;
+  }
+  
+  .flex-container>div {
+    background-color:lightgrey;
+    width: 100px;
+    margin: 10px;
+    line-height: 75px;
+    font-size: 14px;
+    min-height: 100%;
+    overflow: hidden;
+  }
+
+  table
+  {
+        width: 100%;
+        padding: 10px;
+  }
+  th
+  {
+      font-family: "Open Sans", "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+      background-color :rgb(196, 25, 65);
+      color: white;
+      font-weight: light;
+      text-align: center;
+      font-size:12px;
+  }
+  td
+  {
+      font-family: "Open Sans", "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+      background-color:rgb(136, 120, 120);
+      color: white;
+      font-weight: light;
+      padding: 5px;
+      font-size: 12px;
+      text-align: center;
+  }
+  p
+  {
+    font-family: "Open Sans", "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif; 
+    text-align: center;
+
+  }
